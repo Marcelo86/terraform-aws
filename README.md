@@ -1,4 +1,4 @@
-# Terraform Blue/Green Deployment Example
+# Terraform Blue/Green Example
 
 ## Usage
 * Open vpc.tf and change "yourvpcid" to your VPC ID
